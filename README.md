@@ -7,9 +7,5 @@
 ### Languages and Tools I use:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,c,css,docker,express,git,html,js,linux,nextjs,nodejs,photoshop,php,postgres,py,pytorch,react,tailwind,tensorflow,windows,powershell,raspberrypi,lua,kali,arch" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=golang,arduino,c,css,docker,git,html,js,linux,nextjs,nodejs,photoshop,php,postgres,py,pytorch,express,react,bash,tailwind,tensorflow,windows,powershell,raspberrypi,lua,kali,arch" alt="My Skills" />
 </p> & more ...
-
----
-
-### [Root-Me](https://www.root-me.org/ORGEEEZEJRHGERG)
